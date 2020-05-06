@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>P3R-OpenRGB</Name>
+  <Name>P3R OpenRGB</Name>
   <Repository>p3rco/openrgb:latest</Repository>
   <Registry>https://hub.docker.com/repository/docker/p3rco/openrgb</Registry>
   <Network>bridge</Network>
@@ -17,7 +17,7 @@ This project provides a tool to probe the SMBus.  This is a potentially dangerou
 As of now, only Gigabyte RGB Fusion 2.0 boards have been reported to have issues.</Overview>
   <Category>Tools: Status:Beta</Category>
   <WebUI>http://[IP]:[PORT:5800]/</WebUI>
-  <Icon>https://raw.githubusercontent.com/captasic/unraid-dev/master/OpenRGB-P3R-256px.png</Icon>
+  <Icon>https://raw.githubusercontent.com/P3R-CO/unraid/master/OpenRGB-P3R-256px.png</Icon>
   <ExtraParams>-e 'USER_ID'='0' -e 'GROUP_ID'='0'</ExtraParams>
   <DonateText>Please support me on Patreon</DonateText>
   <DonateLink>https://www.patreon.com/keepitPG</DonateLink>
