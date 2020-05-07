@@ -15,5 +15,5 @@
   <DonateLink>https://www.patreon.com/keepitPG</DonateLink>
   <Config Name="HTTP" Target="80" Default="80" Mode="tcp" Description="Container Port: 80" Type="Port" Display="always" Required="true" Mask="false">80</Config>
   <Config Name="HTTPS" Target="443" Default="443" Mode="tcp" Description="Container Port: 443" Type="Port" Display="always" Required="false" Mask="false">443</Config>
-  <Config Name="AppData" Target="/config" Default="/mnt/user/appdata/P3R-LEMP" Mode="rw" Description="Container Path: /config" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/P3R-LEMP</Config>
+  <Config Name="AppData" Target="/config/" Default="/mnt/user/appdata/P3R-LEMP-Stack/" Mode="rw" Description="Container Path: /config/" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/P3R-LEMP-Stack/</Config>
 </Container>

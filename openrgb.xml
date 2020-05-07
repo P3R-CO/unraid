@@ -23,7 +23,7 @@ As of now, only Gigabyte RGB Fusion 2.0 boards have been reported to have issues
   <DonateLink>https://www.patreon.com/keepitPG</DonateLink>
   <Config Name="Web Port" Target="5800" Default="5800" Mode="tcp" Description="Container Port: 5800" Type="Port" Display="always" Required="true" Mask="false">5800</Config>
   <Config Name="VNC Port" Target="5900" Default="5900" Mode="tcp" Description="Container Port: 5900" Type="Port" Display="always" Required="false" Mask="false">5900</Config>
-  <Config Name="AppData" Target="/config/" Default="" Mode="rw" Description="Container Path: /config/" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/P3R-OpenRGB/</Config>
+  <Config Name="AppData" Target="/config/" Default="/mnt/user/appdata/P3R-OpenRGB/" Mode="rw" Description="Container Path: /config/" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/P3R-OpenRGB/</Config>
   <Config Name="SYS I2C" Target="/sys/bus/i2c/devices/" Default="" Mode="rw" Description="Container Path: /sys/bus/i2c/devices/" Type="Path" Display="always" Required="false" Mask="false">/sys/bus/i2c/devices/</Config>
   <Config Name="DEV I2C" Target="/dev/i2c-0/" Default="" Mode="rw" Description="Container Path: /dev/i2c-0/" Type="Path" Display="always" Required="false" Mask="false">/dev/i2c-0/</Config>
 </Container>
