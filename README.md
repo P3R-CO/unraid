@@ -6,7 +6,7 @@ Poseidon's 3 Rings Cloud Node.
 \
 \
 \
-![logo](https://raw.githubusercontent.com/captasic/unraid-dev/master/P3R_256px.png)
+![logo](https://raw.githubusercontent.com/captasic/unraid-dev/master/LEMP-P3R-256px.png)
 # P3R LEMP
 Poseidon's 3 Rings LEMP Stack. Debian, NGINX, MariaDB, PHP
 \
