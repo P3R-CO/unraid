@@ -7,7 +7,7 @@
   <Shell>bash</Shell>
   <Privileged>true</Privileged>
   <Support>https://discord.gg/uRhFDDK</Support>
-  <Project>https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/home</Project>
+  <Project>https://github.com/P3R-CO/openrgb-container</Project>
   <Overview>A simple container that opens OpenRGB in a browser so that you can control all of your System lighting while still running UnraidOS.&#xD;
 &#xD;
 OpenRGB is an Open source RGB lighting control that doesn't depend on manufacturer software. ASUS, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer, ThermalTake, and more are currently supported.&#xD;
