@@ -7,6 +7,7 @@
     <Shell>sh</Shell>
   <Privileged>false</Privileged>
   <Support>https://discord.gg/uRhFDDK</Support>
+  <Project>https://github.com/P3R-CO/container-build-files/tree/master/lemp-container</Project>
   <Overview>P3R LEMP Stack is an All-In-One container built on Debian with NGINX, MariaDB, and PHP7.3 all pre-loaded.</Overview>
   <Category>Network:Web Status:Beta</Category>
   <WebUI>http://[IP]:[PORT:80]/</WebUI>
