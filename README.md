@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/P#R-CO/unraid/master/P3R_256px.png)
+![logo](https://raw.githubusercontent.com/P3R-CO/unraid/master/P3R_256px.png)
 # p3r-cloud-node
 Poseidon's 3 Rings Cloud Node.
 \
