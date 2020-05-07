@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>P3R-LEMP</Name>
+  <Name>P3R LEMP Stack</Name>
   <Repository>p3rco/lemp:latest</Repository>
   <Registry>https://hub.docker.com/r/p3rco/lemp</Registry>
   <Network>bridge</Network>
