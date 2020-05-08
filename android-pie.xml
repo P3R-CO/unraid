@@ -11,7 +11,6 @@
   <Category>Tools: Status:Stable</Category>
   <WebUI>http://[IP]:[PORT:6080]/</WebUI>
   <Icon>https://raw.githubusercontent.com/P3R-CO/unraid/master/Android-P3R-256px.png</Icon>
-  <ExtraParams>-e 'USER_ID'='0' -e 'GROUP_ID'='0'</ExtraParams>
   <DonateText>Please support me on Patreon</DonateText>
   <DonateLink>https://www.patreon.com/keepitPG</DonateLink>
 
