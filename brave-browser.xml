@@ -13,7 +13,6 @@
   <Category>Productivity: Status:Stables</Category>
   <WebUI>http://[IP]:[PORT:5800]/</WebUI>
   <Icon>https://raw.githubusercontent.com/P3R-CO/unraid/master/Brave-P3R-256px.png</Icon>
-  <ExtraParams>-e 'DISPLAY_WIDTH'='1920' -e 'DISPLAY_HEIGHT'='1080'</ExtraParams>
   <DonateText>Please support me on Patreon</DonateText>
   <DonateLink>https://www.patreon.com/keepitPG</DonateLink>
   <Config Name="Web Port" Target="5800" Default="5800" Mode="tcp" Description="Container Port: 5800" Type="Port" Display="always" Required="true" Mask="false">5800</Config>
