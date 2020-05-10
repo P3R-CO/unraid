@@ -6,6 +6,14 @@ Poseidon's 3 Rings Cloud Node.
 \
 \
 \
+![logo](https://raw.githubusercontent.com/P3R-CO/unraid/master/KeePassXC-P3R-256px.png)
+# P3R KeePassXC
+Poseidon's 3 Rings KeePassXC as a container for Docker. Designed for UnraidOS, but should work on any platform that supports Docker Linux Containers.
+\
+\
+\
+\
+\
 ![logo](https://raw.githubusercontent.com/P3R-CO/unraid/master/Brave-P3R-256px.png)
 # P3R Brave Browser
 Poseidon's 3 Rings Brave Browser as a container for Docker. Designed for UnraidOS, but should work on any platform that supports Docker Linux Containers.
