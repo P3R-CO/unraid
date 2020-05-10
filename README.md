@@ -6,6 +6,22 @@ Poseidon's 3 Rings Cloud Node.
 \
 \
 \
+![logo](https://raw.githubusercontent.com/P3R-CO/unraid/master/Brave-P3R_256px.png)
+# P3R Brave Browser
+Poseidon's 3 Rings Brave Browser as a container for Docker. Designed for UnraidOS, but should work on any platform that supports Docker Linux Containers.
+\
+\
+\
+\
+\
+![logo](https://raw.githubusercontent.com/P3R-CO/unraid/master/Android-P3R_256px.png)
+# P3R Android Pie
+Poseidon's 3 Rings Android Pie (9.0) as a container for Docker.
+\
+\
+\
+\
+\
 ![logo](https://raw.githubusercontent.com/P3R-CO/unraid/master/LEMP-P3R-256px.png)
 # P3R LEMP
 Poseidon's 3 Rings LEMP Stack. Debian, NGINX, MariaDB, PHP
