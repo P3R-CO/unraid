@@ -5,7 +5,7 @@
   <Registry>https://hub.docker.com/repository/docker/p3rco/brave</Registry>
   <Network>bridge</Network>
   <Shell>sh</Shell>
-  <Privileged>false</Privileged>
+  <Privileged>true</Privileged>
   <Support>https://discord.gg/uRhFDDK</Support>
   <Project>https://github.com/P3R-CO/brave-container</Project>
   <Overview>Brave Browser in a forwarded X11 container.&#xD;
