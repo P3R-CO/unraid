@@ -9,7 +9,6 @@
   <Support>https://discord.gg/uRhFDDK</Support>
   <Project>https://github.com/P3R-CO/brave-container</Project>
   <Overview>Brave Browser in a forwarded X11 container.&#xD;
-BETA: Extensions do not work.&#xD;
 Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send cryptocurrency contributions in the form of Basic Attention Tokens to websites and content creators.</Overview>
   <Category>Productivity: Status:Stable</Category>
   <WebUI>http://[IP]:[PORT:5800]/</WebUI>
