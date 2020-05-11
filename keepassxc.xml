@@ -13,7 +13,7 @@ I highly recommend also downloading the KeePassXC browser extension for easy inp
 Save your database in the /config folder for persistence after updates/reboots and backups with your AppData.</Overview>
   <Category>Security: Tools:</Category>
   <WebUI>http://[IP]:[PORT:5800]/</WebUI>
-  <Icon>https://raw.githubusercontent.com/P3R-CO/unraid/master/OpenRGB-P3R-256px.png</Icon>
+  <Icon>https://raw.githubusercontent.com/P3R-CO/unraid/master/KeePassXC-P3R-256px.png</Icon>
   <DonateText>Please support me on Patreon</DonateText>
   <DonateLink>https://www.patreon.com/keepitPG</DonateLink>
   <Config Name="Web Port" Target="5800" Default="5800" Mode="tcp" Description="Container Port: 5800" Type="Port" Display="always" Required="true" Mask="false">5800</Config>
