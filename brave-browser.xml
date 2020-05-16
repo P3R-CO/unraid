@@ -22,4 +22,5 @@ Brave is a free and open-source web browser developed by Brave Software, Inc. ba
   <Config Name="Browser Downloads Folder" Target="/Downloads/" Default="" Mode="rw" Description="Container Path: /Downloads" Type="Path" Display="always" Required="true" Mask="false"></Config>
   <Config Name="Browser Display Width" Target="DISPLAY_WIDTH" Default="1920" Mode="" Description="Display Width in Pixels" Type="Variable" Display="advanced-hide" Required="true" Mask="false">1920</Config>
   <Config Name="Browser Display Height" Target="DISPLAY_HEIGHT" Default="1080" Mode="" Description="Display Height in Pixels" Type="Variable" Display="advanced-hide" Required="true" Mask="false">1080</Config>
+  <Config Name="VNC Password" Target="VNC_PASSWORD" Default="p3rcontainer" Mode="" Description="Set New VNC Password" Type="Variable" Display="advanced-hide" Required="true" Mask="false">p3rcontainer</Config>
 </Container>

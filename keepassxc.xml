@@ -19,4 +19,5 @@ Save your database in the /config folder for persistence after updates/reboots a
   <Config Name="Web Port" Target="5800" Default="5800" Mode="tcp" Description="Container Port: 5800" Type="Port" Display="always" Required="true" Mask="false">5800</Config>
   <Config Name="VNC Port" Target="5900" Default="5900" Mode="tcp" Description="Container Port: 5900" Type="Port" Display="always" Required="false" Mask="false">5900</Config>
   <Config Name="AppData" Target="/config/" Default="/mnt/user/appdata/P3R-KeePassXC/" Mode="rw" Description="Container Path: /config/" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/P3R-KeePassXC/</Config>
+  <Config Name="VNC Password" Target="VNC_PASSWORD" Default="p3rcontainer" Mode="" Description="Set New VNC Password" Type="Variable" Display="advanced-hide" Required="true" Mask="false">p3rcontainer</Config>
 </Container>
