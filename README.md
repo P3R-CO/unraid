@@ -7,7 +7,7 @@ Poseidon's 3 Rings Cloud Node.
 \
 \
 ![logo](https://raw.githubusercontent.com/P3R-CO/unraid/master/Firefox-P3R-256px.png)
-# P3R Brave Browser
+# P3R Mozilla Firefox Browser
 Poseidon's 3 Rings Mozilla Firefox Browser as a container for Docker. Designed for UnraidOS, but should work on any platform that supports Docker Linux Containers.
 \
 \
