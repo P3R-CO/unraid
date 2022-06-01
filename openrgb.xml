@@ -29,7 +29,7 @@ As of now, only Gigabyte RGB Fusion 2.0 boards have been reported to have issues
   <Config Name="VNC Password" Target="VNC_PASSWORD" Default="" Mode="" Description="Set New VNC Password" Type="Variable" Display="advanced-hide" Required="false" Mask="false"></Config>
   <Config Name="Default Profile" Target="DEFAULT_PROFILE" Default="default.orp" Mode="" Description="Set Default Profile" Type="Variable" Display="advanced-hide" Required="false" Mask="false"></Config>
   <Config Name="SDK Server Port" Target="6742" Default="6742" Mode="tcp" Description="Container Port: 6742" Type="Port" Display="advanced-hide" Required="false" Mask="false">6742</Config>
-  <Config Name="USER ID" Target="0" Default="" Mode="" Description="" Type="Variable" Display="advanced-hide" Required="false" Mask="false">0</Config>
-  <Config Name="GROUP ID" Target="0" Default="" Mode="" Description="" Type="Variable" Display="advanced-hide" Required="false" Mask="false">0</Config>
+  <Config Name="USER ID" Target="USER_ID" Default="" Mode="" Description="" Type="Variable" Display="advanced-hide" Required="false" Mask="false">0</Config>
+  <Config Name="GROUP ID" Target="GROUP_ID" Default="" Mode="" Description="" Type="Variable" Display="advanced-hide" Required="false" Mask="false">0</Config>
   "${SVR_PORT}"
 </Container>
